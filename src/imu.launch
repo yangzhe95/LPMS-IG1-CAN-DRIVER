@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="can_imu" type="can_imu" name="imu_1" respawn="true" output="screen">
+  </node>
+</launch>
